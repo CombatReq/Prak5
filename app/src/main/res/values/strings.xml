@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">prac5</string>
+    <string name="MP">MyProfile</string>
+    <string name="name">Name: Maxim</string>
+    <string name="age">Age: 19</string>
+    <string name="Specifity">Specifity: developer</string>
+    <string name="Photo">Photo</string>
+    <string name="Project">Poject</string>
+    <string name="Achives">Achives</string>
+</resources>
